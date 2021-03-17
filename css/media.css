@@ -64,12 +64,6 @@
     width: 100%;
   }
   .about__inner-img {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .about__inner-img--deliver,
-  .about__inner-img--manage {
-    margin: 0 auto;
-    margin-left: 0px;
+    display: none;
   }
 }
