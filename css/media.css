@@ -48,4 +48,28 @@
   .menu__btn {
     z-index: 25;
   }
+  .about {
+    margin-bottom: 40px;
+  }
+  .about-line {
+    margin: 0px auto 40px;
+  }
+  .about__inner {
+    display: block;
+  }
+  .about__inner-content--text {
+    width: 100%;
+  }
+  .about__inner-content--desc {
+    width: 100%;
+  }
+  .about__inner-img {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .about__inner-img--deliver,
+  .about__inner-img--manage {
+    margin: 0 auto;
+    margin-left: 0px;
+  }
 }
